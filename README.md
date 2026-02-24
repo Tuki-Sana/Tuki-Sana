@@ -28,7 +28,7 @@
 |--------|------|--------|
 | **ポートフォリオサイト** | イラストレーター向け。Next.js, Supabase, 作品管理・検索・お問い合わせ | [tsukasa-art.com](https://tsukasa-art.com) |
 | **サロンレジデモ** | 美容室向け料金計算レジのデモ。Vite, Vanilla JS, IndexedDB, 日次レポート | [リポジトリ](https://github.com/Tuki-Sana/salon-register-demo) · [デモ](https://salon-register-demo.pages.dev/login) |
-| **テトリス風ゲーム** | Canvas API のブラウザゲーム。PC/モバイル対応 | [プレイ](https://tuki-sana.github.io/tet-js/) |
+| **テトリス風ゲーム** | Vanilla JS + Canvas。難易度・HOLD・BGM切替・ライト/ダークテーマ・PWA。PC/モバイル | [プレイ](https://tuki-sana.github.io/tet-js/) |
 
 ---
 
