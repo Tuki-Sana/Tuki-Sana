@@ -21,6 +21,7 @@ Orreryは、既存のWine構成では動作しないWindows向けビジュアル
 アプリを起動するだけでなく、描画・動画再生・ウィンドウ制御・32/64-bit境界などの不具合を観測し、Wine、DirectX、Rosetta 2、Metalまで原因を切り分けています。修正は再現手順と検証結果を残し、公開可能な知見をZennとCase Noteへ還元しています。
 
 - **[swingby-wine](https://github.com/tsukasa-art/swingby-wine)** — Wine 10.0を基底とするフォーク。CでmacOS/Rosetta向け互換性修正を管理
+- **[swingby-dxvk](https://github.com/tsukasa-art/swingby-dxvk)** — DXVK 2.4.1を基底とするフォーク。MoltenVK/Apple Silicon向け互換性修正を管理
 - **[melammu-vn](https://github.com/tsukasa-art/melammu-vn)** — ローカルライブラリUIと汎用エンジン判定を示す、SwiftUI製の公開版
 - **[Orrery overview](https://tsukasa-art.com/projects/orrery/)** — プロジェクト全体像と公開Case Note
 - **[Zenn連載](https://zenn.dev/tsukasa_art/articles/mac-eroge-compat-part1)** — 調査、失敗、修正、検証の記録

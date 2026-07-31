@@ -19,6 +19,7 @@ I publish technical work under the pen name Tsukasa / 月村つかさ.
 Orrery investigates application failures across Wine, DirectX, Rosetta 2, and Metal. The work covers rendering, media playback, window behavior, and 32/64-bit boundaries, with reproducible cases and verification notes kept alongside the fixes.
 
 - **[swingby-wine](https://github.com/tsukasa-art/swingby-wine)** — Wine 10.0-based fork carrying macOS/Rosetta compatibility work in C
+- **[swingby-dxvk](https://github.com/tsukasa-art/swingby-dxvk)** — DXVK 2.4.1-based fork carrying MoltenVK/Apple Silicon compatibility work
 - **[melammu-vn](https://github.com/tsukasa-art/melammu-vn)** — public SwiftUI source for a local library UI and generic engine inspection
 - **[Orrery overview](https://tsukasa-art.com/projects/orrery/)** — project overview and public case notes
 - **[Zenn series](https://zenn.dev/tsukasa_art/articles/mac-eroge-compat-part1)** — investigation, failed approaches, fixes, and verification in Japanese
